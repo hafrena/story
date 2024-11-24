@@ -1,0 +1,10 @@
+{
+    "type": "module",
+    "dependencies": {
+      "fs": "^0.0.1-security",
+      "table": "^6.8.2"
+      
+    }
+    
+  }
+  

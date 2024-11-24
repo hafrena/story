@@ -1,7 +1,7 @@
 script for Badge Checking in Story Odyssey campaign
 
 how to start:
-open VSC or Codespace and type commapnds:
+open VSC or Codespace and type commands:
 
 git clone https://github.com/nastrdmt/Story
 

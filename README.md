@@ -4,6 +4,7 @@ how to start:
 open VSC or Codespace and type commapnds:
 
 git clone https://github.com/nastrdmt/Story
+
 npm i
 
 add your wallet address (you can do multiply wallets, but we know that you have only ONE ofcourse) in walletx.txt
